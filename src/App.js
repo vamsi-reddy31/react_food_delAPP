@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const [search,setSearch]=useState("")
-  fetch()
+  
   return (
          <div>
           <center>
